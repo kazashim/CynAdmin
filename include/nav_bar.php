@@ -5,12 +5,12 @@
                     <i class="fa fa-bars"></i>
                 </a>
                 <div class="top-left-part">
-                    <a class="logo" href="index.html">
+                    <a class="logo" href="index.php">
                         <b>
                             <img src="../plugins/images/logo.png" alt="home" />
                         </b>
                         <span>
-                            <img src="../plugins/images/logo-text.png" alt="homepage" class="dark-logo" />
+                            <img src="plugins/images/logo-text.png" alt="homepage" class="dark-logo" />
                         </span>
                     </a>
                 </div>
@@ -50,7 +50,7 @@
                                     </a>
                                     <a href="javascript:void(0);">
                                         <div class="user-img">
-                                            <img src="../plugins/images/users/2.jpg" alt="user" class="img-circle">
+                                            <img src="plugins/images/users/2.jpg" alt="user" class="img-circle">
                                             <span class="profile-status busy pull-right"></span>
                                         </div>
                                         <div class="mail-contnet">
@@ -61,7 +61,7 @@
                                     </a>
                                     <a href="javascript:void(0);">
                                         <div class="user-img">
-                                            <img src="../plugins/images/users/3.jpg" alt="user" class="img-circle"><span class="profile-status away pull-right"></span>
+                                            <img src="plugins/images/users/3.jpg" alt="user" class="img-circle"><span class="profile-status away pull-right"></span>
                                         </div>
                                         <div class="mail-contnet">
                                             <h5>chisenga Mwansa</h5>
@@ -71,7 +71,7 @@
                                     </a>
                                     <a href="javascript:void(0);">
                                         <div class="user-img">
-                                            <img src="../plugins/images/users/4.jpg" alt="user" class="img-circle">
+                                            <img src="plugins/images/users/4.jpg" alt="user" class="img-circle">
                                             <span class="profile-status offline pull-right"></span>
                                         </div>
                                         <div class="mail-contnet">

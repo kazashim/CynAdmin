@@ -7,7 +7,7 @@
                 <div class="top-left-part">
                     <a class="logo" href="index.php">
                         <b>
-                            <img src="../plugins/images/logo.png" alt="home" />
+                            <img src="plugins/images/logo.png" alt="home" />
                         </b>
                         <span>
                             <img src="plugins/images/logo-text.png" alt="homepage" class="dark-logo" />

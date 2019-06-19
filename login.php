@@ -1,5 +1,5 @@
 <?php require_once ('index.php'); ?>
-<<center><div class="row">
+<center><div class="row">
                     
                           <center>  <h3 class="m-b-0 m-t-30 box-title">Login with cynojine </h3></center>
                            

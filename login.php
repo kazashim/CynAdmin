@@ -8,7 +8,7 @@
                             <div class="row">
                                
                              <div class="col-lg-2 col-sm-4 col-xs-12">
-                                <a href="https://app.cynojine.com/oauth?app_id='60e42b3ba620d4573388' button class="btn btn-block btn-outline btn-rounded btn-warning">login</button>
+                                <a href="https://app.cynojine.com/oauth?app_id='60e42b3ba620d4573388'"" button= class="btn btn-block btn-outline btn-rounded btn-warning">login</button></a>
                                 </div>
 </div>
 </div>
